@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Sasha and I am an aspiring  developer 
+- 👋 Hi, I’m Sasha and I an Automation Engineer
 - 🌱 I’m currently learning some Java and Kotlin
 - 📱 Developing for Android and web
-- 🏄‍♀ Automation enthusiast 
